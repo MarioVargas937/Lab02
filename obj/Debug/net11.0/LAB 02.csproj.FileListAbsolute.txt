@@ -1,0 +1,14 @@
+C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\bin\Debug\net11.0\LAB 02.exe
+C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\bin\Debug\net11.0\LAB 02.deps.json
+C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\bin\Debug\net11.0\LAB 02.runtimeconfig.json
+C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\bin\Debug\net11.0\LAB 02.dll
+C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\bin\Debug\net11.0\LAB 02.pdb
+C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\obj\Debug\net11.0\LAB 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\obj\Debug\net11.0\LAB 02.AssemblyInfoInputs.cache
+C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\obj\Debug\net11.0\LAB 02.AssemblyInfo.cs
+C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\obj\Debug\net11.0\LAB 02.csproj.CoreCompileInputs.cache
+C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\obj\Debug\net11.0\LAB 02.dll
+C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\obj\Debug\net11.0\refint\LAB 02.dll
+C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\obj\Debug\net11.0\LAB 02.pdb
+C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\obj\Debug\net11.0\LAB 02.genruntimeconfig.cache
+C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\obj\Debug\net11.0\ref\LAB 02.dll
