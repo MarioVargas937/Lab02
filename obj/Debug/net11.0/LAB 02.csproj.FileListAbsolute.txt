@@ -12,3 +12,4 @@ C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estruc
 C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\obj\Debug\net11.0\LAB 02.pdb
 C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\obj\Debug\net11.0\LAB 02.genruntimeconfig.cache
 C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\obj\Debug\net11.0\ref\LAB 02.dll
+C:\Users\morei\OneDrive\Documentos\Unicaes\2026\CICLO 2 2026\Programacion Estructurada\PERIODO 1\LAB 02\obj\Debug\net11.0\LAB 02.sourcelink.json
