@@ -1,0 +1,1 @@
+Laboratorio par identificar estructuras de control como el if con el else o la estructuras de while y las do while con switch y demas que permiten darle un flujo diferente al proyecto para ir por un camino o elegir otro.
